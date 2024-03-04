@@ -2,7 +2,11 @@
 
 Centralizo aqui minhas anotações dos estudos realizados de `git`.
 
-## `git diff`
+## Commits
+
+Segue os estudos relacionados a criação e manipulação de commits.
+
+### `git diff`
 
 Comando para verificar os arquivos modificados na alteração.
 
@@ -10,7 +14,7 @@ Comando para verificar os arquivos modificados na alteração.
 git diff
 ```
 
-## `git add`
+### `git add`
 
 Comando para adicionar arquivos em `staged`.
 
@@ -35,7 +39,7 @@ Serve para adicionar os arquivos em staging no nivel do path
 git add -p path_file
 ```
 
-## `git log`
+### `git log`
 
 Serve para ver os últimos `commits` que foram realizados no repositório.
 
