@@ -46,3 +46,7 @@ Serve para ver os últimos `commits` que foram realizados no repositório.
 ```
 git log
 ```
+
+## Branches
+
+Branches são ramificações que podemos fazer para trabalhar em conjunto com outras pessoas sem interferir no código uma das outras.
